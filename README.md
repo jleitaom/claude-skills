@@ -47,3 +47,7 @@ Each skill's folder has a README with what it does and how to use it.
 
 Skills and plugins by others that I use are listed in
 [`other_skills/`](other_skills/README.md).
+
+## License
+
+[MIT](LICENSE): free to use, change and share, as long as you keep the copyright notice.

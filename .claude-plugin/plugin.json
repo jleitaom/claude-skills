@@ -6,6 +6,7 @@
     "name": "jleitaom"
   },
   "repository": "https://github.com/jleitaom/claude-skills",
+  "license": "MIT",
   "skills": [
     "./my_skills/learning/teach-it",
     "./my_skills/learning/teach-it-with-projects"
