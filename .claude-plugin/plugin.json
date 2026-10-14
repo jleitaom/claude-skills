@@ -1,0 +1,13 @@
+{
+  "name": "jleitaom-skills",
+  "version": "1.0.0",
+  "description": "jleitaom's Claude Code skills, grouped by category.",
+  "author": {
+    "name": "jleitaom"
+  },
+  "repository": "https://github.com/jleitaom/claude-skills",
+  "skills": [
+    "./my_skills/learning/teach-it",
+    "./my_skills/learning/teach-it-with-projects"
+  ]
+}

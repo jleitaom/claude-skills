@@ -1,0 +1,14 @@
+{
+  "name": "jleitaom",
+  "owner": {
+    "name": "jleitaom"
+  },
+  "description": "jleitaom's Claude Code skills.",
+  "plugins": [
+    {
+      "name": "jleitaom-skills",
+      "source": "./",
+      "description": "jleitaom's Claude Code skills, grouped by category."
+    }
+  ]
+}
