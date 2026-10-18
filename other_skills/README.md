@@ -17,3 +17,5 @@ Skills and plugins I use that were written by others.
 | `grill-with-docs` | Grilling plus updates to domain docs and ADRs | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `write-a-skill` | Guide for writing new skills | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `show-me` | Explains the current topic visually: diagrams, sketches, HTML | [humanlayer/skills](https://github.com/humanlayer/skills/tree/main/plugins/show-me) |
+| `anatomy` | Detailed interactive isometric SVG figures that explain a technical idea as a physical object | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
+| `diagram-design` | Branded diagrams and charts (architecture, flowchart, sequence, ER, Sankey and more) as HTML/SVG/PNG | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
