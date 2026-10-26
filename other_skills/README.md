@@ -19,3 +19,4 @@ Skills and plugins I use that were written by others.
 | `show-me` | Explains the current topic visually: diagrams, sketches, HTML | [humanlayer/skills](https://github.com/humanlayer/skills/tree/main/plugins/show-me) |
 | `anatomy` | Detailed interactive isometric SVG figures that explain a technical idea as a physical object | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
 | `diagram-design` | Branded diagrams and charts (architecture, flowchart, sequence, ER, Sankey and more) as HTML/SVG/PNG | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
+| `nasa-handbook` | Printable technical pages in the style of Apollo-era NASA handbooks, rendered to PDF | [R44VC0RP/skills](https://github.com/R44VC0RP/skills/tree/main/skills/nasa-handbook) |
