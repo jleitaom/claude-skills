@@ -8,6 +8,7 @@ Skills and plugins I use that were written by others.
 |---|---|---|
 | `frontend-slides` | Animated HTML slide decks, or PPTX → web | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) |
 | `last30days` | Research what people said about a topic in the last 30 days | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
+| `bama` | Build native macOS apps with Swift and SwiftUI: research, clone, plan, design, test and ship | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) |
 
 ## Skills
 
